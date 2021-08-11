@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Visit Maldives :: Contact Us</title>
+    <link rel="stylesheet" href="css/contact.css">
+    <link rel="stylesheet" href="css/header&footer.css">
+    <link rel="stylesheet" href="jquery-ui/jquery-ui.css">
+   <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+   <script src="jquery-ui/jquery-ui.js"></script>
+    <script src="js/contact.js" defer=true></script>
+    <style>
+
+    </style>
+    </head>
+<body>
+    <!-- header navigation starts -->
+    <header>
+        <div id="h-margin">
+            <a href="index.html"><img src="images/Logo.png" alt="Logo"></a>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="places.html">Explore Places</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <!-- Main section of body starts -->
+    <main>
+        <!-- contact form section -->
+        <section>
+            <article>
+                <div class="heading"><h2>Contact Us</h2>
+                    <span class="underline"></span></div>
+                <p class="para">Please note: the personal data submitted via this form will be retained only for the purpose of responding to your question or concern, and will not be used for marketing purposes. *You must be 16 years old or older to submit a form.</p>
+                
+                
+                <form id="email_form" name="email_form"  method="get" action="success.html">
+                    <fieldset>
+                        <legend>Form</legend>
+                        <label>First Name</label>
+                    <input type="text" name="first_name" id="first_name">
+                    <span>*</span><br>
+                    
+                    <label>Last Name</label>
+                    <input type="text" name="last_name" id="last_name">
+                    <span>*</span><br>
+                    <label>Email </label>
+                    <input type="text" name="email" id="email">
+                    <span>*</span><br>
+                            
+                    <label>Phone</label>
+                    <input type="text" name="phone" id="phone" placeholder="111-111-1111">
+                    <span>*</span><br>
+                    
+                    
+                    <label>How can we Help You !</label>
+                    <textarea name="message" id="message" rows="3" cols="50"></textarea>
+                    <span>*</span><br>
+                    
+                    <label>&nbsp;</label>
+                    <input type="submit" id="button" value="Submit">
+                    </fieldset>
+                    </form>
+                </article>
+            </section>
+            <!-- Google map section -->
+                <section>
+                    <div id="map">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7964.895431836283!2d72.79596262146782!3d3.4832087489084227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b47294b61a07755%3A0x54051949a05f2915!2sSun%20Island%20Resort!5e0!3m2!1sen!2sin!4v1597576475400!5m2!1sen!2sin" width="100%" height="550" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> <br>
+                </div>
+                </section>
+                
+                <!-- Feedback form section -->
+                <section>
+                    <article>
+                <form id="rating_form" name="rating_form"  method="get" >
+            
+                <fieldset>
+                    <legend>Feedback</legend>
+                <div id="feedback">
+                    
+                    <label>Customer Name</label>
+                    <input type="text" name="customer" id="customer"><span>*</span><br>
+                    
+                    <label>Rating</label>
+                    <div>
+                    <input type="radio" value="1" name="r" id="r1" required="required"/>1
+                    <input type="radio" value="2" name="r" id="r2" required="required"/>2
+                    <input type="radio" value="3" name="r" id="r3" required="required"/>3
+                    <input type="radio" value="4" name="r" id="r4" required="required"/>4
+                    <input type="radio" value="5" name="r" id="r5" required="required"/>5
+                    <span class="rValid">*</span>
+                    </div>
+                    <br>
+                    
+                    <label>Email</label>
+                    <input type="text" name="email_address" id="email_address"><span>*</span><br>
+                    
+                    <label>Feedback</label>
+                    <textarea id="myfeedback" rows="3" cols="50"></textarea> <span>*</span>
+                    <br>
+                    <label>&nbsp;</label>
+                    <input type="button" name="submit" id="mybutton" value="Add Feedback"><br>
+                </div>
+                </fieldset>
+                </form>
+        
+            </article>
+        </section>
+        <!-- Displaying previous feedback section -->
+        <section>
+            <article>
+                <div class="heading"><h2>Previous Feedbacks</h2>
+                    <span class="underline"></span></div>
+                    <div id="feed">
+                        <br>
+                         <span class="noFeed">No Previous Feedbacks</span> 
+                        <br>
+                    </div>
+
+        </article>
+    </section>
+    
+    </main>
+        <!-- Footer section starts -->
+        <footer>
+            <div class="flex-container">
+                <div class="item1">
+                    <h3>Visit Maldives</h3>
+                    <p>The Maldives remained largely unknown to tourists until the early 1970s.
+                         Only 189 islands are home to its 447,137 inhabitants. The other 
+                         islands are used entirely for economic purposes, of which tourism and 
+                         agriculture are the most dominant. </p>
+                </div>
+                <div class="item2">
+                    <h3>Newsletter</h3>
+                    <p>Receive our latest news straight to your inbox.</p>
+                    <input type="text" placeholder="Email">
+                    <button>Subscribe</button>
+                </div>
+                <div class="item3">
+                    <h3>Connect With Us</h3>
+                    <table>
+                        <tr>
+                            <td><a href="#facebook"><img src="images/facebook.png" alt="Facebook Icon"></a></td>
+                            <td><a href="#facebook">Facebook</a></td>
+    
+                        </tr>
+                        <tr>
+                            <td><a href="#twitter"><img src="images/twitter.png" alt="Twitter Icon"></a></td>
+                            <td><a href="#twitter">Twitter</a></td>
+                        </tr>
+                        <tr>
+                            <td><a href="#linkedin"><img src="images/linkedin.png" alt="Linked in Icon"></a></td>
+                            <td><a href="#linkedin">Linked In</a></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <p id="tooltip"> &copy; Copyright 2020. All Rights Reserved. | <span>Powered by </span>
+                <a href="#" title="Onkar Singh Kalsi">Onkar Kalsi</a></p>
+           
+        </footer>
+</body>
+</html>

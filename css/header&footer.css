@@ -1,0 +1,152 @@
+:root {
+    --pColor: #0f4c75;
+    --s1Color: #fd8f00;
+    --color1: #fa4b2a;
+    --color2: #464646;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family:  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    ;
+}
+
+header {
+    background-color: rgb(255, 255, 255);
+    border-bottom: 2px solid rgb(255, 145, 0);
+}
+#h-margin {
+    display: flex;
+    justify-content: space-between;  
+}
+
+[alt='Logo'] {
+    height: 50px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+    padding: 15px 20px;
+    font-weight: bold;
+}
+
+header a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 13px;
+    color: rgb(26, 26, 26);
+    padding: 15px 0px;
+    transition: all 0.35s;
+}
+
+header a:hover {
+    color: var(--s1Color);
+}
+
+
+#h-margin, article {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+.heading {
+    text-align: center;
+}
+.heading h2 {
+    
+    font-size: 2.3em;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+.underline {
+    display: inline-block;
+    height: 2px;
+    width: 150px;
+    background-color: orange;
+}
+
+
+
+
+footer {
+    background-color: rgb(20, 20, 20);
+}
+
+.flex-container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 50px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
+
+.item1, .item3 {
+    width: 260px;
+}
+.item2 {
+    width: 420;
+}
+
+.item2 input {
+    width: 100%;
+    padding: 10px 15px;
+}
+
+.item2 button {
+    margin: 10px 30%;
+    border: none;
+    padding: 12px 30px;
+    font-weight: bold;
+    color: white;
+    background-color: var(--color1);
+}
+
+.item2 button:hover {
+    cursor: pointer;
+    background-color: #ff6141;
+}
+
+.item3 a{
+    text-decoration: none;
+    color: white;
+}
+
+#tooltip{
+    margin: 0;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    background-color: black;
+    color: white;
+}
+
+footer h3 {
+    color: white;
+    font-size: 22px;
+}
+
+footer p {
+    color: rgb(182, 182, 182);
+}
+
+footer p span {
+    font-style: italic;
+}
+
+#tooltip a {
+    text-decoration: none;
+    color: rgb(192, 115, 0);
+}

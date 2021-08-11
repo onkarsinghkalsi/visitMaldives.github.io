@@ -1,0 +1,86 @@
+
+form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+fieldset {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: .5em;
+}
+legend {
+    color: orangered;
+    font-weight: bold;
+    font-size: 1em;
+    margin-bottom: 0.5em;
+}
+label {
+	float: left;
+    margin-left: 5px;
+    width: 150px; 
+}
+input, select,textarea {
+    margin: 0.5em;
+    line-height: 1.5em;
+
+}
+input[type='button'], input[type='submit']{
+    width:150px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    background-color: var(--color1);
+    
+}
+
+[type='text'], textarea {
+    width: 200px;
+}
+h1,h2{
+    text-align: center;
+}
+
+input.left {
+	width: 1em;
+	padding-left: 0;
+}
+p {
+	margin-top: 0;
+	margin-bottom: .5em;
+}
+main span{
+    color: red;
+}
+
+.para {
+    font-size: 1.2em;
+    margin: 10px;
+}
+
+article table {
+    width: 50%;
+    margin: 20px auto;
+    box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.46);
+
+}
+table th {
+    vertical-align: top;
+    text-align: right;
+    font-style: italic;
+    width: 150px;
+}
+
+.noFeed {
+    color: black;
+    text-decoration: underline;
+    display: block;
+    font-style: italic;
+    text-align: center;
+}
+
+.back{
+    display: block;
+    text-align: center;
+}

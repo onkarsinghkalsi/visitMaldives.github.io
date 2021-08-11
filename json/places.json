@@ -1,0 +1,75 @@
+[
+    {},{
+        "id": "1",
+        "title": "SURFING - HUVADHOO ATOLL",
+        "image": "images/surfing.jpg",
+        "description": "The Maldives is located right in the middle of the Indian Ocean and benefits from full exposure to southern swells and to excellent surfing conditions on the outer reefs of atolls.",
+        "attractions": "For many surfers, Huvadhoo Atoll, in the southern group of the atoll chain offers the coolest waves in the Maldives, most of them located on the southern rim of the atoll. Beacons, Tiger Stripes, Castaways, Blue Bowls, Airports, Five Islands, Two Ways, Love Charms and Antiques are some of the well-known surf points in the atoll.",
+        "best_time": "From March to May and September to end of November"
+    },
+    {
+       "id": "2",
+        "title": "BAA ATOLL BIOSPHERE RESERVE",
+        "image": "images/baa-reserve.jpg",
+        "description": "Baa Atoll located in the central region of the atoll chain that form the Maldives is considered globally significant in terms of its biodiversity. The atoll covers an area of over 139,000 hectares...",
+        "attractions": "Baa atoll consists of several habitats that support the rich biodiversity of the atoll and includes coral reefs, islands, sea grass beds and mangroves & Hanifaru Bay is the highlight when it comes to Baa Atoll’s biodiversity, attracting large numbers of visitors every year.",
+        "best_time": "From November to April." 
+    },
+    {
+        "id": "3",
+        "title": "ADDU NATURE PARK",
+        "image": "images/addu-nature.jpg",
+        "description": "Addu Atoll is the southernmost atoll in the Maldives atoll chain.",
+        "attractions": "Addu Atoll hosts the second largest wetlands area in the Maldives. The Addu Nature Park encompasses the beautiful Eydhigali Kilhi wetlands and protected Koattey area in Hithadhoo Island. You can take a guided nature tour through the park and observe the unique fauna and flora of the rich habitat.",
+        "best_time": "From November to March"
+    },
+    {
+        "id": "4",
+        "title": "DIVING IN ADDU ATOLL",
+        "image": "images/diving-addu.jpg",
+        "description": "Addu Atoll offers a choice of stunning dives in a range of diverse dive locations.",
+        "attractions": "Addu Atoll offers a choice of stunning dives in a range of diverse dive locations. The reefs of the atoll were not affected by the coral bleaching event of 1998 which affected the rest of the country and therefore you can expect to see healthier coral growth wherever you dive.",
+        "best_time": "From November to March"
+    },
+    {
+      "id": "5",
+        "title": "THE SHIPYARD IN LHAVIYANI ATOLL",
+        "image": "images/diving-ship.jpg",
+        "description": "The Shipyard is one of the biggest dive attractions in Lhaviyani Atoll. There are two wrecks in this location both of which are covered with a variety of soft and hard corals. The wrecks are forty..",
+        "attractions": "The Shipyard is one of the biggest dive attractions in Lhaviyani Atoll. The channel is also a hangout for large pelagics, nurse sharks and grey reef sharks. Dive trips to the site are organized by resorts and guesthouses in the atoll.",
+        "best_time": "From March to May and September to end of November"  
+    },
+    {
+        "id": "6",
+        "title": "HULHUMALE BEACH" ,
+        "image": "images/heli-beach.jpg",
+        "description": "Hulhumale Beach - The Most Popular Of All",
+        "attractions": "Go for group snorkeling, scuba diving, and watch the changing colors in the sky every evening at Sunset Cruise.",
+        "best_time": "From November to March"
+    },
+    {
+        "id": "7",
+        "title": "SNORKELING In HURAA",
+        "image": "images/snor-huraa.jpg",
+        "description": "You shouldn't miss the beauty of marine life in Maldives. These spots are one of the best and you wouldn't want to come back.",
+        "attractions": "A few highlights of the Huraa snorkeling fish and creatures we saw were: beautiful anemonefish hiding in and flitting around their anemones, many Hawksbill Turtles, Whale Sharks, Eagle Rays, massive schools of brilliant fusiliers.",
+        "best_time": "From January through April"
+    },
+    {
+        "id": "8",
+        "title": "MALÉ CITY",
+        "image": "images/male-city.jpg",
+        "description": "Malé is the capital and most populous city in the Republic of Maldives. The central island is heavily urbanized, with the built-up area taking up essentially its entire landmass.",
+        "attractions": "A few highlights of Hukuru Miskiiy , National Museum, Atoll of the Maldives are the major attractiona. This small island may not look like much, but it's the vital and indeed much of the country. ",
+        "best_time": "From November to April"
+    },
+    {
+        "id": "9",
+        "title": "ATOLLS OF THE MALDIVES",
+        "image": "images/main-city.jpg",
+        "description": "You shouldn't miss the beauty of marine life in Maldives. These spots are one of the best and you wouldn't want to come back.",
+        "attractions": "A few highlights of the Ihavandhippolhu Atoll, Kaashidhu Atoll , Addu Atoll allowing to the many beautiful diving grounds of the numerous atolls of the Maldives, this country has been marketed as a prime destination for scuba divers worldwide.",
+        "best_time": "From January through April"
+    }
+    
+]

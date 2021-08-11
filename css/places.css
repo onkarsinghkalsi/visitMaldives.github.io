@@ -1,0 +1,62 @@
+#wrapper{
+    width:95%;
+    margin:1em auto;
+}
+article {
+    padding: 0 50px;
+}
+
+#placesList {
+    text-align: center;
+}
+
+#placesList a {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin: 11px;
+    height: 160px;
+    width: 120px;
+    border-radius: 6px;
+}
+
+#placesList span{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: all .5s;
+}
+
+#placesList a:hover .name{
+    top: 60%;
+}
+
+
+#placeInfo {
+    width: 80%;
+    padding: 20px 50px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.46);
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+#placeInfo h2{
+    text-align: center;
+    font-style: italic;
+}
+
+#placeInfo img{
+    height: auto;
+    width: 100%;
+}
+#placeInfo p {
+    font-size: 1.3em;
+}
+
+.title {
+    font-weight: bold;
+    font-style: italic;
+}

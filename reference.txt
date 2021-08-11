@@ -1,0 +1,50 @@
+image source:
+
+slideshow
+https://images.pexels.com/photos/1450363/pexels-photo-1450363.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-1450363.jpg&fm=jpg
+https://images.pexels.com/photos/2606523/pexels-photo-2606523.jpeg?cs=srgb&dl=pexels-artem-beliaikin-2606523.jpg&fm=jpg
+https://images.pexels.com/photos/1456293/pexels-photo-1456293.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-1456293.jpg&fm=jpg
+https://images.pexels.com/photos/1430676/pexels-photo-1430676.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-1430676.jpg&fm=jpg
+https://images.pexels.com/photos/1287441/pexels-photo-1287441.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-1287441.jpg&fm=jpg
+
+welcome
+https://images.pexels.com/photos/1078983/pexels-photo-1078983.jpeg?cs=srgb&dl=pexels-oliver-sj%C3%B6str%C3%B6m-1078983.jpg&fm=jpg
+https://images.pexels.com/photos/1024984/pexels-photo-1024984.jpeg?cs=srgb&dl=pexels-asad-photo-maldives-1024984.jpg&fm=jpg
+
+attractions
+https://images.unsplash.com/photo-1512910321573-ae9b35da8dec?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=ben-dove-VKf-YFWz1fo-unsplash.jpg
+https://images.unsplash.com/photo-1512970648279-ff3398568f77?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=juan-camilo-guarin-p-njEXjDmYn8w-unsplash.jpg
+https://images.unsplash.com/photo-1520451214409-ba3eed10dc52?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=roxanne-desgagnes-di1tfXuDdOg-unsplash.jpg
+https://pixabay.com/get/55e5d34a4d57aa14f1dc8460da2932771237dbe5565176_640.jpg?attachment=
+https://images.pexels.com/photos/3848886/pexels-photo-3848886.jpeg?cs=srgb&dl=pexels-maxim-titov-3848886.jpg&fm=jpg
+https://pixabay.com/get/51e7d2434952b10ff3d89960c62d3e791d3adee65352_640.jpg?attachment=https://pixabay.com/get/51e7d2434952b10ff3d89960c62d3e791d3adee65352_640.jpg?attachment=
+https://images.pexels.com/photos/1659293/pexels-photo-1659293.jpeg?cs=srgb&dl=pexels-becca-siegel-1659293.jpg&fm=jpg
+https://pixabay.com/get/52e4d0464850a814f1dc8460da2932771237dbe5535571_640.jpg?attachment=
+https://pixabay.com/get/54e1d1434251ac14f1dc8460da2932771237daec5a5972_640.jpg?attachment=
+https://pixabay.com/get/5fe8d141435bb10ff3d89960c62d3e791d3bd7ed5b52_640.jpg?attachment=
+
+
+https://www.flaticon.com/download-icon
+References for Places Page
+
+Images : For Json Files:
+                 Main Images Source Link - https://unsplash.com/s/photos/maldives
+                 Surfing - https://unsplash.com/photos/oC32cy4x-ZA
+                 Male City - https://unsplash.com/photos/Fcopy8szaoM
+                 https://unsplash.com/photos/44r12Ck_CoI
+                 Diving - https://unsplash.com/photos/7i5HMCGupVw
+                 Shipyard - https://unsplash.com/photos/8uabPZmXJ4s
+                  https://unsplash.com/photos/6xg76KY1ruk
+                 
+For Box Slider:
+                 https://unsplash.com/photos/0TDK_DpxUk8
+                 https://unsplash.com/photos/rj8fMHNPXbg	
+                 https://unsplash.com/photos/nXOB-wh4Oyc
+                 https://unsplash.com/photos/oC32cy4x-ZA
+                 https://unsplash.com/photos/RN6ts8IZ4_0
+
+
+Text-Content : 
+https://en.wikipedia.org/wiki/Maldives
+https://visitmaldives.com/en
+https://www.tripadvisor.com/Tourism-g293953-Maldives-Vacations.html

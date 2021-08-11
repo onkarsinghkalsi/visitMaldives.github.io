@@ -1,0 +1,107 @@
+
+article {
+    padding: 0 50px;
+}
+
+#slideshow {
+    text-align: center;
+    height: 38vw;
+    overflow: auto;
+}
+
+#slideshow h1 {
+    min-width: 1140px;
+    font-size: 3.5em;
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 3em;
+    color: white;
+    text-shadow: 3px 3px 4px black;
+}
+
+#slideshow p {
+    color: white;
+    font-size: 1.3em;
+    text-shadow: 2px 2px 3px black;
+}
+
+.h1-span {
+    color: rgb(255, 136, 0);
+}
+
+#welcome img {
+    height: 350px;
+    width: auto;
+}
+#welcome article {
+    padding: 30px 100px;
+}
+.imgPosition {
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    z-index: -1;
+}
+.block1 {
+    width: 45%;
+    margin-top: 80px;
+}
+.block2 {
+    margin: 50px;
+    float: right;
+    position: relative;
+}
+
+.block1 h3 {
+    color: rgb(0, 177, 168);
+    font-size: 1.5em;
+}
+
+.block1 p {
+    text-align: justify;
+    font-size: 1.2em;
+    padding-bottom: 10px;
+    border-bottom: 1px dashed black;
+}
+
+.clearfix { clear: both;}
+
+#gallery {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#gallery a {
+    display: inline-block;
+    padding: 10px;
+    transition: all .5s;
+}
+#gallery a:hover {
+    transform: scale(1.1);
+}
+
+#gallery img{
+    border-radius: 5px;
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+}
+
+ .imageList {
+    display: inline-block;
+    width: 182px;
+    height: auto;
+    margin: 12px;
+    border: 1.5px solid rgb(197, 112, 0);
+}
+.imageList img {
+    width: 100%;
+    height: auto;
+}
+.imageList p{
+    margin: 5px;
+}
+.container {
+    text-align: center;
+    padding: 10px 20px;
+}
